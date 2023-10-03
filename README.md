@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Pedro Victorio 🙋🏽‍♂️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-victorio-0b0246237/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFz1cpqXAQXavx%2Fnzdq2xiA%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvictorio49@gmail.com.com)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PVictorio46&show_icons=true&theme=synthwave)
 
